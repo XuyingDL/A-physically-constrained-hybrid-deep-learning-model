@@ -3,9 +3,9 @@ by Ying Xu
 # System-specific notes
 Matlab R2016a, Tensorflow1.14 version, python3.7
 # How to use it?
-Firstly, run 1DCNN_DataPreparation.m and miniGCN_DataPreparation.m to generate data
-1DCNN_DataPreparation:Generate training, validation, and testing datastes for the one-dimensional convolutional neural network
-miniGCN_DataPreparation:Generate training, validation, and testing datastes for the one-dimensional mini-batch graph convolutional network
+Firstly, run 1DCNN_DataPreparation.m and miniGCN_DataPreparation.m to generate data  
+1DCNN_DataPreparation:Generate training, validation, and testing datastes for the one-dimensional convolutional neural network  
+miniGCN_DataPreparation:Generate training, validation, and testing datastes for the one-dimensional mini-batch graph convolutional network  
 Then run 1DCNN+miniGCN_loss.py
 # REFERENCE
 ## CNN+miniGCN
